@@ -19,6 +19,8 @@ intro = """
  ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝       ╚═══╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝
 
 ---------------------------------[by GIFUS]---------------------------------
+      The author is not responsible for the blocking of your account!
+                  You use the software at your own risk.
 """
 
 print(intro)
