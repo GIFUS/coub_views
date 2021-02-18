@@ -25,4 +25,4 @@ Exapmle: https://coub.com/view/jb9ucpo --> **jb9ucpo** - This coub id
 This is the field for specifying the threads to perform the view. The speed of cheating depends on this parameter, but keep in mind that with a weak PC, there will be lags and failures.
 
 ### Info
-The author is not responsible for the blocking of your account!
+The author is not responsible for the blocking of your account! You use the software at your own risk!
