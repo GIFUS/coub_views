@@ -1,5 +1,5 @@
 # Coub Views cheat!
-This Python script was written in order to wind up views on the service coub.com
+This Python script was written in order to cheating views on the service coub.com
 
 ## How to use
    
