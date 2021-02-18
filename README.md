@@ -8,7 +8,7 @@ This Python script was written in order to cheating views on the service coub.co
     [1] Load Proxys from APIs
     [2] Load Proxys from proxys.txt
 ```
-You can choose 1 to download the proxy from the free api or choose 2 to download your proxies from proxys.txt
+You can choose 1 to download the proxy from the free api or choose 2 to use your proxies from proxys.txt
 
 - Step 2. Coub link format. 
 ```txt
