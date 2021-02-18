@@ -6,6 +6,7 @@ import time
 from queue import Queue
 import platform
 import requests
+import win32api
 
 intro = """
 ----------------------------------------------------------------------------
@@ -21,6 +22,7 @@ intro = """
 """
 
 print(intro)
+win32api.SetConsoleTitle('COUB VIEWS')
 
 proxy_loading = input("[1] Load Proxys from APIs\n[2] Load Proxys from proxys.txt\nOption: ")
 uid = input("Coub id: ")
